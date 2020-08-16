@@ -1,0 +1,36 @@
+h1 {
+  background-image: url("./images/Colourful_tiles.jpeg");
+  text-align: center;
+  color: khaki;
+  font-size: 100px;
+}
+
+h1, h2, h3, span {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+h2.title-1 {
+  background-color: mediumspringgreen;
+}
+
+h2.title-2 {
+  background-color: lightcoral;
+}
+
+h2.title-3 {
+  background-color: skyblue;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+span {
+  color: blue;
+}
